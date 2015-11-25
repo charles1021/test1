@@ -1,5 +1,5 @@
 -- 
--- Abstract: Transition2 sample app
+-- Abstract: Transition2 sample app changed.
 -- 
 -- Version: 1.0
 -- 
